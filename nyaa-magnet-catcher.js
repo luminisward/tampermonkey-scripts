@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Nyaa Magnet Catcher
-// @namespace    luminisward
+// @namespace    https://greasyfork.org/zh-CN/scripts/377643
 // @version      0.1
 // @description  列表页批量选择复制磁力链接，适合配合aria2等下载软件导入批量任务
 // @author       luminisward
 // @match        https://*.nyaa.si/
-// @match        https://*.nyaa.si/?p=*
+// @match        https://*.nyaa.si/?*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js
 // ==/UserScript==
